@@ -1,0 +1,5 @@
+finmind
+pandas
+plotly
+streamlit
+tqdm
