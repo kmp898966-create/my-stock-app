@@ -1,0 +1,6 @@
+finmind
+pandas
+plotly
+streamlit
+tqdm
+altair
